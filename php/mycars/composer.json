@@ -1,0 +1,19 @@
+{
+    "name": "md/mycars",
+    "description": "Mon super projet !",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mickael DEVOLDERE",
+            "email": "mdevoldere@arfp.asso.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App"
+        }
+    }
+}
